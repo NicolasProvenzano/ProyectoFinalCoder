@@ -1,0 +1,92 @@
+*{ padding: 5px;
+    margin: 2px;
+}
+
+.final__titulo{
+    background-color:aquamarine ;  
+    background-image: url(./images.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 1rem;
+    color: rgb(253, 0, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: -1.3rem;
+    margin-right: -1.3rem;
+    margin-top: -1.5rem;
+    margin-bottom: -1rem;
+
+    
+}
+
+
+.final__inicio{
+    color: rgb(238, 169, 80);
+
+
+
+}
+
+.final__body{
+
+}
+
+.final__titulo li{
+    display: inline-block;
+
+}
+
+.final__titulo a{
+    text-decoration: none;
+    color: rgb(42, 236, 210);
+    text-transform:capitalize;
+    text-align: center;
+    font-size: 1rem;
+    margin: 10rem;
+    font-family: fantasy;
+}
+
+.final__desplegable{
+    float: right;
+    margin-right: -1rem;
+    margin-top: -1rem;
+    padding: 1rem;
+    height: 100rem;
+
+
+
+}
+
+.final__desplegable li{
+    margin-right: -1rem;
+    margin-top: -1rem;
+    padding: 1rem;
+    
+
+}
+
+.final__titulos{
+    color: rgb(253, 0, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: -1rem;
+    margin-bottom: -0.5rem;
+
+}
+
+.final__desplegable--titulo{
+    color: rgb(255, 0, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: -1rem;
+    margin-bottom: -0.5rem;
+
+}
+
+.final__cuerpo{
+    background-color: rgb(206, 169, 255);
+}
+
+.contacto__datos{
+    display: flex;
+    margin: 1rem;
+
+}
