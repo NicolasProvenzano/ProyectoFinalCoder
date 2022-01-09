@@ -1,25 +1,16 @@
 body{
-    justify-content: center;
-    align-items: center;
     height: 100vh;
     perspective: 1500px;
     perspective-origin: top;
-    margin: 4rem ;
-    background-color: aquamarine;
+    margin-left: 4rem ;
+    background-color: rgb(146, 59, 8);
 
 }
 
 .cuerpo{
-  background-image: linear-gradient(to bottom, lightblue, grey);
+  background-image: linear-gradient(to right, rgb(6, 129, 47), rgb(216, 197, 27));
   width: 1798px;
   margin-left: -60px;
-}
-
-
-
-
-.titulo{
-   background-image: linear-gradient( to right, rgb(90, 190, 223), rgb(156, 156, 156) ) ;
 }
 
 
@@ -29,11 +20,9 @@ body{
     transform-style: preserve-3d;
     animation: rotar 5s infinite linear;
     position: relative;
-    margin-left: 50px;
-    
-
-
+    margin-left: 2rem;
 }
+
 #cara1{
     position: absolute;
     height:100%;
