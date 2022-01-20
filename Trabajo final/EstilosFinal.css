@@ -49,9 +49,11 @@
 .final__desplegable{
     float: right;
     margin-right: -1rem;
-    margin-top: -1rem;
+    margin-top: -1.2rem;
     padding: 1rem;
     height: 100rem;
+    margin-bottom: -1rem;
+    background-image: linear-gradient(to bottom, aquamarine, rgba(0, 0, 255, 0.596) ); 
 
 
 
@@ -61,6 +63,8 @@
     margin-right: -1rem;
     margin-top: -1rem;
     padding: 1rem;
+    
+  
     
 
 }
@@ -78,15 +82,27 @@
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-left: -1rem;
     margin-bottom: -0.5rem;
+    
 
 }
 
 .final__cuerpo{
-    background-color: rgb(206, 169, 255);
+    background-color: rgb(53, 181, 240);
 }
 
 .contacto__datos{
     display: flex;
     margin: 1rem;
+
+}
+
+.final__titulo{
+    
+grid-template-areas: 
+"nav header header"
+"nav section aside"
+"nav section2 aside"
+"nav section3 aside"
+"nav footer footer";
 
 }
