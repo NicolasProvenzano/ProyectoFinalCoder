@@ -1,24 +1,24 @@
-body{
-    background-color: rgb(236, 180, 96);
- }
- 
- .header__menu{
-    list-style: none;
-    padding: 0%;
-    }
-    li{   
-       display: inline-block;
- }
- 
-    a{ 
-       text-decoration: none;
-       text-transform: uppercase;
-       text-align: center;
-       font-size: large;
-       font-family: Verdana, Geneva, Tahoma, sans-serif;
-       color: white;
-       padding: 1rem;
-       background-color: thistle;
+body {
+  background-color: #ecb460;
+}
 
-    }
- 
+.header__menu {
+  list-style: none;
+  padding: 0%;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  padding: 1rem;
+  background-color: thistle;
+}
+/*# sourceMappingURL=estilo.css.map */

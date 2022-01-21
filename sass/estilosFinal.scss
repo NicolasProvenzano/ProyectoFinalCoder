@@ -3,18 +3,24 @@
 }
 
 .final__titulo{
-    background-color:aquamarine ;  
-    background-image: url(./images.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    
+        background:  {
+    color:aquamarine ;  
+    image: url(./images.jpg);
+    size: cover;
+    repeat: no-repeat;
+    position: center;
+}
     padding: 1rem;
     color: rgb(253, 0, 0);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-left: -1.3rem;
-    margin-right: -1.3rem;
-    margin-top: -1.5rem;
-    margin-bottom: -1rem;
+      
+    margin:  {    
+    left: -1.3rem;
+    right: -1.3rem;
+    top: -1.5rem;
+    bottom: -1rem;
+        }
 
     
 }
@@ -37,10 +43,12 @@
 }
 
 .final__titulo a{
-    text-decoration: none;
+        text:  {
+    decoration: none;
+    transform:capitalize;
+    align: center;
+        }
     color: rgb(42, 236, 210);
-    text-transform:capitalize;
-    text-align: center;
     font-size: 1rem;
     margin: 10rem;
     font-family: fantasy;

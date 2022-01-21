@@ -1,0 +1,85 @@
+* {
+  padding: 5px;
+  margin: 2px;
+}
+
+.final__titulo {
+  background-color: aquamarine;
+  background-image: url(./images.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 1rem;
+  color: #fd0000;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: -1.3rem;
+  margin-right: -1.3rem;
+  margin-top: -1.5rem;
+  margin-bottom: -1rem;
+}
+
+.final__inicio {
+  color: #eea950;
+}
+
+.final__titulo li {
+  display: inline-block;
+}
+
+.final__titulo a {
+  text-decoration: none;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2aecd2;
+  font-size: 1rem;
+  margin: 10rem;
+  font-family: fantasy;
+}
+
+.final__desplegable {
+  float: right;
+  margin-right: -1rem;
+  margin-top: -1.2rem;
+  padding: 1rem;
+  height: 100rem;
+  margin-bottom: -1rem;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(aquamarine), to(rgba(0, 0, 255, 0.596)));
+  background-image: linear-gradient(to bottom, aquamarine, rgba(0, 0, 255, 0.596));
+}
+
+.final__desplegable li {
+  margin-right: -1rem;
+  margin-top: -1rem;
+  padding: 1rem;
+}
+
+.final__titulos {
+  color: #fd0000;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: -1rem;
+  margin-bottom: -0.5rem;
+}
+
+.final__desplegable--titulo {
+  color: red;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: -1rem;
+  margin-bottom: -0.5rem;
+}
+
+.final__cuerpo {
+  background-color: #35b5f0;
+}
+
+.contacto__datos {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 1rem;
+}
+
+.video__inicio {
+  border: solid;
+  padding: 2rem;
+}
+/*# sourceMappingURL=estilosFinal.css.map */
