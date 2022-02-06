@@ -1,0 +1,47 @@
+.saludo {
+  color: blue;
+}
+
+.dia {
+  color: cyan;
+}
+
+.conclusion {
+  color: purple;
+}
+
+.otro {
+  color: red;
+}
+
+.Titulo {
+  background-color: yellow;
+  font-size: 30px;
+}
+
+.estiloExt, .estiloext2 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.estiloext2 {
+  font-size: 27px;
+  color: #18db22;
+}
+
+.textosparametros {
+  text-align: right;
+  font-size: 20px;
+  font-family: arial;
+  text-transform: capitalize;
+}
+
+.textosparametros2 {
+  text-align: center;
+  font-size: 30px;
+  font-family: Courier;
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=DiseñosSass2.css.map */
