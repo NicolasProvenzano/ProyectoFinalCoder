@@ -1,5 +1,6 @@
 *{ padding: 5px;
     margin: 2px;
+
 }
 
 .final__titulo{
@@ -11,27 +12,23 @@
     padding: 1rem;
     color: rgb(253, 0, 0);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-left: -1rem;
-    margin-right: -1rem;
-    margin-top: -1rem;
-
+    min-width: 300px;
     
 }
 
 
 .final__inicio{
     color: rgb(238, 169, 80);
+    
 
 
 
 }
 
-.final__body{
-
-}
 
 .final__titulo li{
     display: inline-block;
+    
 
 }
 
